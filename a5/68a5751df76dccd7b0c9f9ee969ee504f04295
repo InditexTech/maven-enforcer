@@ -1,0 +1,16 @@
+enforcer-rules/src/site/markdown/banPropertyPrefix.md.vm
+  h_4822c601baecd3 1-77
+enforcer-rules/src/site/markdown/index.md
+  h_4822c601baecd3 37
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a568a5751df76dccd7b0c9f9ee969ee504f04295",
+  "prompts": {},
+  "humans": {
+    "h_4822c601baecd3": {
+      "author": "Julio Gomez Diaz <juliojgd@inditex.com>"
+    }
+  }
+}
