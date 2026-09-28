@@ -1,0 +1,14 @@
+enforcer-rules/src/main/java/org/apache/maven/enforcer/rules/property/BanPropertyPrefix.java
+  h_4822c601baecd3 1-114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9d6a94e5b4a61b0e527d40b40af8ed258d6373bf",
+  "prompts": {},
+  "humans": {
+    "h_4822c601baecd3": {
+      "author": "Julio Gomez Diaz <juliojgd@inditex.com>"
+    }
+  }
+}
