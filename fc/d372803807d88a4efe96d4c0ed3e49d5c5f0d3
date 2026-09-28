@@ -1,0 +1,22 @@
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-fail/invoker.properties
+  h_4822c601baecd3 1-18
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-fail/pom.xml
+  h_4822c601baecd3 1-63
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-fail/verify.groovy
+  h_4822c601baecd3 1-21
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-pass/pom.xml
+  h_4822c601baecd3 1-63
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-pass/verify.groovy
+  h_4822c601baecd3 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fcd372803807d88a4efe96d4c0ed3e49d5c5f0d3",
+  "prompts": {},
+  "humans": {
+    "h_4822c601baecd3": {
+      "author": "Julio Gomez Diaz <juliojgd@inditex.com>"
+    }
+  }
+}
