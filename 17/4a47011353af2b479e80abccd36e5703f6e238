@@ -1,0 +1,14 @@
+maven-enforcer-plugin/src/it/projects/ban-property-prefix-fail/verify.groovy
+  h_4822c601baecd3 21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "174a47011353af2b479e80abccd36e5703f6e238",
+  "prompts": {},
+  "humans": {
+    "h_4822c601baecd3": {
+      "author": "Julio Gomez Diaz <juliojgd@inditex.com>"
+    }
+  }
+}

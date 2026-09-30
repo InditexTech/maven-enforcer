@@ -1,0 +1,14 @@
+enforcer-rules/src/test/java/org/apache/maven/enforcer/rules/property/TestBanPropertyPrefix.java
+  h_4822c601baecd3 34-35,62-63,72,80,89-90,101-105,114-115,124,134-135,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dc904e7a231d4ff24f9b6661a69206af1466a3fd",
+  "prompts": {},
+  "humans": {
+    "h_4822c601baecd3": {
+      "author": "Julio Gomez Diaz <juliojgd@inditex.com>"
+    }
+  }
+}
